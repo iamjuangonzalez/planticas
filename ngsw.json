@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1685585696151,
+  "timestamp": 1685586948518,
   "index": "/planticas/index.html",
   "assetGroups": [
     {
@@ -141,7 +141,12 @@
   "dataGroups": [
     {
       "name": "app",
-      "patterns": ["\\/", "\\/index\\.html", "\\/[^/]*\\.css", "\\/[^/]*\\.js"],
+      "patterns": [
+        "\\/",
+        "\\/index\\.html",
+        "\\/[^/]*\\.css",
+        "\\/[^/]*\\.js"
+      ],
       "strategy": "performance",
       "maxSize": 1000000,
       "maxAge": 86400000,
@@ -258,7 +263,7 @@
     "/planticas/assets/promos/image20.png": "990188578f043adad7b5e8e67601fcd8a7dca59e",
     "/planticas/assets/promos/image22.png": "3910bb7647a317db50edf2eec75198d340acdaf9",
     "/planticas/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/planticas/index.html": "3a95e58c0e7ccbfa604c228e88e19723c7a58763",
+    "/planticas/index.html": "462d4c5ddb28d9040fcd99b4a468ea9c0f82a3fe",
     "/planticas/main.807162790a3e1f48.js": "c339c423a50ec5471e88a8922697443cb4745bf5",
     "/planticas/manifest.webmanifest": "ea6b9611ae4f6bcd9332f720364b0b974959cba2",
     "/planticas/polyfills.e119e4c7287912a0.js": "61f14c854c5523cb69e3628f0005669a08cad9b5",
